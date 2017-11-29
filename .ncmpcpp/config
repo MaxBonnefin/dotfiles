@@ -1,0 +1,6 @@
+mpd_music_dir = "/home/max/Music"
+visualizer_output_name = "FIFO"
+visualizer_in_stereo = "yes"
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_look = "+|"
+visualizer_sync_interval = 1
